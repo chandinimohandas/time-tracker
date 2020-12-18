@@ -1,4 +1,4 @@
-The application is hosted at: 
+The application is hosted at: https://task-time-tracker.netlify.app/
 
 How to run the assignment:
 1. Install all the dependencies using 'npm install'
